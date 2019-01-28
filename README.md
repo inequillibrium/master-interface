@@ -11,7 +11,7 @@ For detailed information about the Load Balancer, please read this README.
 1. Prerequisites:
     1. Webserver with PHP 7.1
 2. Installation:
-    1. clone the Repository into your web-root: `git clone https://github.com/bennetgallein/TS3AB-BalancerDashboard`
+    1. clone the Repository into your web-root: `git clone https://github.com/inequillibrium/master-interface`
     2. if you want, rename the Directory to be served by default.
     3. `cd` into the folder.
     4. run `composer install && composer dump-autoload -o`
