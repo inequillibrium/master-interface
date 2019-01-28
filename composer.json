@@ -1,0 +1,12 @@
+{
+  "require": {
+    "bennetgallein/angle-framework": "@dev",
+    "mongodb/mongodb": "^1.4"
+  },
+  "autoload": {
+    "psr-4": {
+      "Controllers\\": "Controllers/",
+      "Objects\\": "Objects/"
+    }
+  }
+}
